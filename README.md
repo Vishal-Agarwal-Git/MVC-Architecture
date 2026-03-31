@@ -1,4 +1,4 @@
 # MVC-Architecture
-NetCoreMVC, 
+Asp.NetCoreMVC, 
 <br>
 Author - Vishal Agarwal
